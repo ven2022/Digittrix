@@ -1,0 +1,6 @@
+{
+  "name": "Goodwords",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Goodwords.js"
+}
